@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "name": "polina@gmail.com",
+    "password": "12345"
+  },
+  {
+    "id": 102,
+    "name": "dasha@gmail.com",
+    "password": "password"
+  },
+  {
+    "id": 103,
+    "name": "zhenya@gmail.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 104,
+    "name": "qwerty",
+    "password": "1234"
+  },
+  {
+    "id": 687,
+    "name": "sun",
+    "password": "moon"
+  },
+  {
+    "id": 953,
+    "name": "mylogin",
+    "password": "mypassword"
+  }
+]

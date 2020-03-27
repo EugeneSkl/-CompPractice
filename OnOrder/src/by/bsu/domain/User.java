@@ -1,49 +1,52 @@
 package by.bsu.domain;
 
-import org.apache.logging.log4j.Logger;
-
 import java.util.Objects;
 
-public class User extends AbstractEntity<Long>{
+public class User extends AbstractEntity<Integer> {
 
+  private String name;
+  private String password;
 
-    private String name;
-    private Integer orderNumber;
+  public User() {}
 
-    public String getName() {
-        return name;
-    }
+  public User(String name, String password) {
+    this.name = name;
+    this.password = password;
+  }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+  public String getPassword() {
+    return password;
+  }
 
-    public Integer getOrderNumber() {
-        return orderNumber;
-    }
+  public void setPassword(String password) {
+    this.password = password;
+  }
 
-    public void setOrderNumber(Integer orderNumber) {
-        this.orderNumber = orderNumber;
-    }
+  public String getName() {
+    return name;
+  }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (!(o instanceof User)) return false;
-        if (!super.equals(o)) return false;
-        User user = (User) o;
-        return Objects.equals(getName(), user.getName());
-    }
-    @Override
-    public int hashCode() {
-        return Objects.hash(super.hashCode(), getName());
-    }
+  public void setName(String name) {
+    this.name = name;
+  }
 
-    @Override
-    public String toString() {
-        return "User{" +
-                "User name='" + name + '\'' +
-                ", Number of current orders=" + orderNumber +
-                '}';
-    }
+  @Override
+  public boolean equals(Object o) {
+    if (this == o) return true;
+    if (!(o instanceof User)) return false;
+    if (!super.equals(o)) return false;
+    User user = (User) o;
+    return Objects.equals(getName(), user.getName())
+        && Objects.equals(getPassword(), user.getPassword());
+  }
+
+  @Override
+  public int hashCode() {
+    return Objects.hash(super.hashCode(), getName(), getPassword());
+  }
+
+  @Override
+  public String toString() {
+    return "Name= " + name;
+  }
 }

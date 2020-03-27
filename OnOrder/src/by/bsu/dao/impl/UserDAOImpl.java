@@ -2,34 +2,35 @@ package by.bsu.dao.impl;
 
 import by.bsu.console.ConsoleInput;
 import by.bsu.dao.OrderDAO;
+import by.bsu.dao.UserDAO;
 import by.bsu.domain.*;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-public class OrderDAOimpl implements OrderDAO {
+public class UserDAOImpl implements UserDAO {
 
   @Override
-  public Status checkResult(Order order) {
-    return order.getOrderStatus();
-  }
+  public void create(User entity) {}
 
   @Override
-  public void create(Order entity) {}
-
-  @Override
-  public Order read(int id) throws IOException {
+  public User findUser(String name) {
     return null;
   }
 
   @Override
-  public List<Order> readAll() throws IOException {
+  public User read(int id) throws IOException {
     return null;
   }
 
   @Override
-  public void update(Order entity) {}
+  public List<User> readAll() throws IOException {
+    return null;
+  }
+
+  @Override
+  public void update(User entity) throws IOException {}
 
   @Override
   public void delete(int id) {}

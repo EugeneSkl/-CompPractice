@@ -1,0 +1,262 @@
+12:32:35.022 [main] INFO  by.bsu.console.ConsoleInput - The order has been accepted
+14:26:28.925 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+14:28:03.022 [main] ERROR by.bsu.console.OutputStart - Invalid value
+14:36:38.082 [main] ERROR by.bsu.console.SignIn - Invalid password
+14:38:52.356 [main] ERROR by.bsu.console.SignIn - Invalid password
+14:41:21.072 [main] ERROR by.bsu.console.SignIn - Invalid login
+14:42:42.130 [main] ERROR by.bsu.console.SignIn - Invalid login
+15:07:34.358 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:09:57.156 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:21:22.280 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:22:34.570 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:22:34.575 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:23:17.226 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:25:23.919 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:25:23.926 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:29:44.781 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:29:44.787 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:33:00.115 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:35:25.419 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:40:01.569 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:43:48.535 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:44:44.209 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:50:27.158 [main] INFO  by.bsu.console.ConsoleInput - Order created
+15:50:27.164 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:07:59.605 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:18:36.406 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:23:32.152 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:23:32.156 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:24:40.126 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:25:25.461 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:25:25.466 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:27:41.885 [main] ERROR by.bsu.console.SignIn - Invalid login
+16:28:16.388 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:28:16.393 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:28:46.802 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+21:21:51.506 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+21:28:24.001 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+21:36:32.403 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+22:21:42.986 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= polina@gmail.com, date='12/12/2020', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}
+22:21:42.995 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= masha@gmail.com, date='12/05/2020', notes='no sauce', dish='Pizza', orderStatus=COMPLETED}
+22:21:42.996 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= masha@gmail.com, date='17/05/2020', notes='null', dish='Pancakes', orderStatus=ACCEPTED}
+22:22:51.562 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= polina@gmail.com, date='12/12/2020', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}
+22:22:51.567 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= masha@gmail.com, date='12/05/2020', notes='no sauce', dish='Pizza', orderStatus=COMPLETED}
+22:22:51.567 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= masha@gmail.com, date='17/05/2020', notes='null', dish='Pancakes', orderStatus=ACCEPTED}
+22:24:25.521 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - Order{Name= polina@gmail.com, date='12/12/2020', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}
+22:33:43.329 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+22:34:32.223 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+22:34:32.695 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+22:49:25.378 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+22:49:25.786 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+22:51:13.958 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+22:52:06.901 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+23:00:59.271 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+23:02:54.287 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+23:05:22.124 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+23:07:17.511 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+23:08:14.058 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:37:48.788 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:43:30.838 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:45:26.053 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:46:05.527 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:48:01.825 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:55:43.118 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:56:48.457 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:58:02.378 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+10:58:02.759 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+11:02:32.188 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+15:55:09.023 [main] ERROR by.bsu.console.SignIn - Invalid login
+15:55:34.709 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+15:55:35.404 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+15:59:49.186 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+15:59:49.586 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:01:33.594 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:01:34.081 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:02:29.295 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:02:29.752 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:03:27.433 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:03:27.904 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:06:11.901 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:13:14.551 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:13:15.103 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= l;, date='1/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+16:13:15.176 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:18:48.077 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:18:48.572 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= l;, date='1/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= polina, date='12/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+16:18:48.632 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:20:30.009 [main] ERROR by.bsu.console.SignIn - Invalid login
+16:20:50.491 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:20:50.865 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:35:09.352 [main] ERROR by.bsu.console.OutputMenu - Invalid value
+16:35:09.358 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:35:30.635 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:35:31.178 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= l;, date='1/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= polina, date='12/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+16:35:31.245 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:52:06.451 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:52:06.894 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:55:27.141 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:55:27.541 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+16:56:57.459 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+16:56:57.939 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:01:19.717 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:01:20.198 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:06:13.273 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:06:13.722 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:07:20.930 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:07:21.406 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:08:50.322 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:08:50.769 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:11:39.618 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:12:34.398 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:14:09.469 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:14:09.931 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:18:30.220 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:18:30.662 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:19:08.586 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:19:09.017 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:19:48.451 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:19:48.875 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:20:19.772 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:20:20.430 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:25:02.778 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:25:03.265 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:26:00.087 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:26:00.562 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:27:35.241 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:27:35.681 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:33:40.525 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:33:41.122 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:34:26.267 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:34:26.799 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:36:29.548 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:37:41.673 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:39:01.450 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:39:02.045 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:41:10.177 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:41:10.772 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:43:03.040 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:43:03.731 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:44:08.396 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:44:09.274 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:44:57.452 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:44:58.092 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:45:53.442 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:45:54.015 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:46:38.737 [main] ERROR by.bsu.console.OutputStart - Invalid value
+17:46:57.336 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:46:57.923 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:47:46.924 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:48:09.168 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:48:09.735 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:53:59.404 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:53:59.950 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:57:51.743 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:57:52.272 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+17:59:15.489 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+17:59:16.237 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:01:26.517 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:01:27.169 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:04:11.349 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:04:11.973 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:06:02.926 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:06:03.417 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:11:15.963 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:11:16.472 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:14:47.178 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:14:47.668 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:16:43.346 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:16:44.025 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:17:31.976 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:17:32.423 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:19:57.377 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:19:58.054 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:20:32.852 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:20:33.543 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:23:13.022 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:23:13.973 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:25:51.149 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:25:51.763 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:25:51.834 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:30:09.836 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+18:30:10.538 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:30:10.638 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+18:38:22.025 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:42:40.175 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:48:40.044 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:48:45.971 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:54:17.104 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:54:17.121 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:55:20.623 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:55:29.316 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:55:36.371 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:56:00.079 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:56:54.856 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:56:54.885 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:56:54.903 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:57:23.137 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+18:58:04.654 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:01:45.016 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:01:45.043 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:02:05.125 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:02:05.155 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwer, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:04:16.350 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:04:16.367 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Pancakes', orderStatus=IN_PROGRESS}, Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:15:52.357 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:15:52.375 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= we, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:16:25.102 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:16:25.116 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qw, date='12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:20:22.232 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+19:20:22.960 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:20:23.082 [main] INFO  by.bsu.dao.impl.OrderDAOimplJSON - [Order{Name= qwerty, date='121/12/21', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}, Order{Name= polina@gmail.com, date='12/12/12', notes='null', dish='Sushi', orderStatus=IN_PROGRESS}]
+19:46:24.206 [main] ERROR by.bsu.console.SignIn - Cannot read from user.json
+19:47:32.950 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:18:23.313 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:18:36.851 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:18:36.851 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:19:34.368 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:19:39.921 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:19:39.928 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:20:27.467 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:20:59.871 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:21:26.012 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:21:47.885 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:21:53.471 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:22:05.862 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:22:05.862 [main] ERROR by.bsu.console.SignIn - Invalid password
+20:22:18.667 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:22:27.199 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:22:29.808 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:22:29.813 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:28:02.289 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:28:19.521 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:28:19.522 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:28:59.796 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:29:04.895 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:29:24.884 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:29:31.466 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:29:31.467 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:30:33.536 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:31:19.215 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:31:37.668 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:33:07.612 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:33:07.621 [main] ERROR by.bsu.console.SignIn - Invalid login
+20:33:44.539 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:33:49.494 [main] INFO  by.bsu.dao.impl.UserDAOimplJSON - [Name= polina@gmail.com, Name= dasha@gmail.com, Name= zhenya@gmail.com]
+20:33:49.497 [main] ERROR by.bsu.console.SignIn - Invalid password
+20:35:09.436 [main] ERROR by.bsu.console.SignIn - Invalid password
+20:37:09.094 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+20:37:09.146 [main] ERROR by.bsu.dao.impl.OrderDAOimplJSON - Stream error
+21:00:16.146 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+21:00:16.222 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+21:05:08.255 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+21:05:08.329 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+21:35:53.684 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+21:39:23.322 [main] ERROR by.bsu.console.OutputStart - Invalid value
+21:40:01.408 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+21:41:55.621 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+22:01:54.165 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+22:01:54.225 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+08:04:08.666 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+08:04:08.762 [main] INFO  by.bsu.console.ConsoleInput - The new user created
+09:03:56.219 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+09:07:50.337 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created
+09:09:49.885 [main] INFO  by.bsu.service.impl.OrderServiceimpl - Order created

@@ -1,18 +1,21 @@
 package by.bsu.dao;
+
 import by.bsu.domain.*;
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.List;
 
 public interface GenericDAO<T extends AbstractEntity> {
 
-    T create(T entity);
+  void create(T entity);
 
-    T read(long id);
+  T read(int id) throws IOException;
 
-    List<T> readAll();
+  List<T> readAll() throws IOException;
 
-    void update(T entity);
+  void update(T entity) throws IOException;
 
-    void delete(T entity);
-
+  void delete(int id);
 }

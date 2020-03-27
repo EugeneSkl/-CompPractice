@@ -8,5 +8,4 @@ public interface OrderService {
 
     Status checkStatus(Order order);
 
-
 }

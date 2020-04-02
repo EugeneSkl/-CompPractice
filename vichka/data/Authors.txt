@@ -1,0 +1,6 @@
+Rowling  54
+Doyle  71
+Flagg  75
+King  72
+Boileau  82
+Narcejac 90

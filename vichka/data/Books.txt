@@ -1,0 +1,9 @@
+Harry.Potter.and.the.Philosopher's.Stone  500  Rowling
+Harry.Potter.and.the.Prisoner.of.Azkaban  469 Rowling
+Harry.Potter.and.the.Deathly.Hallows  1200  Rowling
+A.Study.in.Scarlet  400  Doyle
+The.Hound.of.the.Baskervilles  439 Doyle
+Can't.Wait.to.Get.to.Heaven  334  Flagg
+I.Still.Dream.About.You  398  Flagg
+The.Man.in.the.Black.Suit  129  King
+Les.Louves  275  Boileau  Boileau
